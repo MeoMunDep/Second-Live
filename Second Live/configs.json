@@ -4,5 +4,9 @@
   "country_time": "en-US",
   "howManyFoodUpgrade": 5,
   "howManySpaceUpgrade": 3,
-  "howManyStorageUpgrade": 10
+  "howManyStorageUpgrade": 10,
+  "doTasks": true,
+  "upgradeBoosts": true,
+  "referralCode": "luqmepcd",
+  "delayEachAccount": [1, 81]
 }
